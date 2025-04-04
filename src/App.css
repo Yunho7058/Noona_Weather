@@ -16,8 +16,7 @@ body {
 }
 
 .weather-box {
-  border: 1px solid #005b8f;
-  box-shadow: 1px 0px 1px #005b8f;
+  box-shadow: 1px 1px 1px #005b8f;
   padding: 30px;
   border-radius: 30px;
   margin: 10px;
@@ -35,7 +34,8 @@ body {
   width: 500px;
   justify-content: space-around;
   background-color: aliceblue;
-  border-radius: 5px;
+  border-radius: 12px;
   height: 50px;
   padding: 5px;
+  box-shadow: 1px 1px 1px #005b8f;
 }
